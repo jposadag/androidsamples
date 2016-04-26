@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyWheater</string>
+    <string name="label_status">Status</string>
+    <string name="WtempCel_label">13</string>
+    <string name="WtempFaren_label">20</string>
+    <string name="WDate_label">Today, June 19</string>
+</resources>
